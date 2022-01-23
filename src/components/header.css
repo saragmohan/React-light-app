@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav{
+    background-color: black;
+    height: 50px;
+    align-items: center;
+}
+
+.headerName{
+    color:white;
+    font-family: 'Sedgwick Ave', cursive;
+    align-items: center;
+    margin-left: 580px;
+}
